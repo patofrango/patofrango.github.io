@@ -1,2 +1,1 @@
-# My Projects
-[Quacker](https://github.com/patofrango/chatgame)
+# patofrango.github.io
