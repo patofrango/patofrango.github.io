@@ -1,1 +1,13 @@
+# Site settings
 theme: jekyll-theme-architect
+title: pato's website
+email: your-email@domain.com
+description: > # this means to ignore newlines
+  My Projects
+url: "http://patofrango.github.io" # the base hostname & protocol for your site
+twitter_username: patoscript
+github_username:  patofrango
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
